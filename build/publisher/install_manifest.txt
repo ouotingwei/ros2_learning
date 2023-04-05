@@ -1,0 +1,14 @@
+C:/Users/TingWeiOu/ros2_test/install/lib/publisher/talker.exe
+C:/Users/TingWeiOu/ros2_test/install/share/ament_index/resource_index/package_run_dependencies/publisher
+C:/Users/TingWeiOu/ros2_test/install/share/ament_index/resource_index/parent_prefix_path/publisher
+C:/Users/TingWeiOu/ros2_test/install/share/publisher/environment/ament_prefix_path.bat
+C:/Users/TingWeiOu/ros2_test/install/share/publisher/environment/ament_prefix_path.dsv
+C:/Users/TingWeiOu/ros2_test/install/share/publisher/environment/path.bat
+C:/Users/TingWeiOu/ros2_test/install/share/publisher/environment/path.dsv
+C:/Users/TingWeiOu/ros2_test/install/share/publisher/local_setup.bat
+C:/Users/TingWeiOu/ros2_test/install/share/publisher/local_setup.dsv
+C:/Users/TingWeiOu/ros2_test/install/share/publisher/package.dsv
+C:/Users/TingWeiOu/ros2_test/install/share/ament_index/resource_index/packages/publisher
+C:/Users/TingWeiOu/ros2_test/install/share/publisher/cmake/publisherConfig.cmake
+C:/Users/TingWeiOu/ros2_test/install/share/publisher/cmake/publisherConfig-version.cmake
+C:/Users/TingWeiOu/ros2_test/install/share/publisher/package.xml

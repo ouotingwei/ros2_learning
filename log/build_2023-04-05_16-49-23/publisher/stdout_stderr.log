@@ -1,0 +1,52 @@
+-- Selecting Windows SDK version 10.0.19041.0 to target Windows 10.0.22621.
+-- The C compiler identification is MSVC 19.29.30148.0
+-- The CXX compiler identification is MSVC 19.29.30148.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 0.9.9 (C:/opt/ros/foxy/x64/share/ament_cmake/cmake)
+-- Found PythonInterp: C:/opt/ros/foxy/x64/python.exe (found suitable version "3.8.3", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: C:/opt/ros/foxy/x64/python.exe
+-- Found ament_lint_auto: 0.9.6 (C:/opt/ros/foxy/x64/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: $<BUILD_INTERFACE:C:/Users/TingWeiOu/ros2_test/src/publisher/include>
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'cpplint' to check C / C++ code against the Google style
+-- Configured cpplint exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/TingWeiOu/ros2_test/build/publisher
+Microsoft (R) Build Engine for .NET Framework 16.11.2+f32259642 版
+Copyright (C) Microsoft Corporation. 著作權所有，並保留一切權利。
+
+  Checking Build System
+  Building Custom Rule C:/Users/TingWeiOu/ros2_test/src/publisher/CMakeLists.txt
+  talker.cpp
+  talker.vcxproj -> C:\Users\TingWeiOu\ros2_test\build\publisher\Release\talker.exe
+  Building Custom Rule C:/Users/TingWeiOu/ros2_test/src/publisher/CMakeLists.txt
+-- Installing: C:/Users/TingWeiOu/ros2_test/install/lib/publisher/talker.exe
+-- Installing: C:/Users/TingWeiOu/ros2_test/install/share/ament_index/resource_index/package_run_dependencies/publisher
+-- Installing: C:/Users/TingWeiOu/ros2_test/install/share/ament_index/resource_index/parent_prefix_path/publisher
+-- Installing: C:/Users/TingWeiOu/ros2_test/install/share/publisher/environment/ament_prefix_path.bat
+-- Installing: C:/Users/TingWeiOu/ros2_test/install/share/publisher/environment/ament_prefix_path.dsv
+-- Installing: C:/Users/TingWeiOu/ros2_test/install/share/publisher/environment/path.bat
+-- Installing: C:/Users/TingWeiOu/ros2_test/install/share/publisher/environment/path.dsv
+-- Installing: C:/Users/TingWeiOu/ros2_test/install/share/publisher/local_setup.bat
+-- Installing: C:/Users/TingWeiOu/ros2_test/install/share/publisher/local_setup.dsv
+-- Installing: C:/Users/TingWeiOu/ros2_test/install/share/publisher/package.dsv
+-- Installing: C:/Users/TingWeiOu/ros2_test/install/share/ament_index/resource_index/packages/publisher
+-- Installing: C:/Users/TingWeiOu/ros2_test/install/share/publisher/cmake/publisherConfig.cmake
+-- Installing: C:/Users/TingWeiOu/ros2_test/install/share/publisher/cmake/publisherConfig-version.cmake
+-- Installing: C:/Users/TingWeiOu/ros2_test/install/share/publisher/package.xml

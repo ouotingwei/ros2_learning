@@ -1,0 +1,10 @@
+^C:\USERS\TINGWEIOU\ROS2_TEST\BUILD\PUBLISHER\CMAKEFILES\9197B44F2390FB3B1800F0536E58192E\GENERATE.STAMP.RULE
+setlocal
+C:\opt\ros\foxy\x64\Lib\site-packages\cmake\data\bin\cmake.exe -SC:/Users/TingWeiOu/ros2_test/src/publisher -BC:/Users/TingWeiOu/ros2_test/build/publisher --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/TingWeiOu/ros2_test/build/publisher/publisher.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
