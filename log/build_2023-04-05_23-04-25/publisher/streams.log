@@ -1,0 +1,60 @@
+[0.062s] Invoking command in 'C:\Users\TingWeiOu\ros2_test\build\publisher': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin C:\opt\ros\foxy\x64\Scripts\cmake.EXE C:\Users\TingWeiOu\ros2_test\src\publisher -DCMAKE_INSTALL_PREFIX=C:\Users\TingWeiOu\ros2_test\install
+[0.125s] -- Selecting Windows SDK version 10.0.19041.0 to target Windows 10.0.22621.
+[0.141s] -- Found ament_cmake: 0.9.9 (C:/opt/ros/foxy/x64/share/ament_cmake/cmake)
+[0.172s] -- Using PYTHON_EXECUTABLE: C:/opt/ros/foxy/x64/python.exe
+[0.422s] -- Found rclcpp: 2.4.0 (C:/opt/ros/foxy/x64/share/rclcpp/cmake)
+[0.469s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.469s] -- Found rosidl_adapter: 1.2.1 (C:/opt/ros/foxy/x64/share/rosidl_adapter/cmake)
+[0.875s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.937s] -- Found rmw_implementation_cmake: 1.0.3 (C:/opt/ros/foxy/x64/share/rmw_implementation_cmake/cmake)
+[0.953s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.062s] -- Found std_msgs: 2.0.4 (C:/opt/ros/foxy/x64/share/std_msgs/cmake)
+[1.078s] -- Found ament_lint_auto: 0.9.6 (C:/opt/ros/foxy/x64/share/ament_lint_auto/cmake)
+[1.156s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.172s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.172s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:C:/Users/TingWeiOu/ros2_test/src/publisher/include>
+[1.172s] -- Configured cppcheck exclude dirs and/or files: 
+[1.187s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.187s] -- Configured cpplint exclude dirs and/or files: 
+[1.203s] -- Added test 'lint_cmake' to check CMake code style
+[1.219s] -- Added test 'uncrustify' to check C / C++ code style
+[1.219s] -- Configured uncrustify additional arguments: 
+[1.219s] -- Added test 'xmllint' to check XML markup files
+[1.219s] -- Configuring done
+[1.609s] -- Generating done
+[1.625s] -- Build files have been written to: C:/Users/TingWeiOu/ros2_test/build/publisher
+[1.641s] Invoked command in 'C:\Users\TingWeiOu\ros2_test\build\publisher' returned '0': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin C:\opt\ros\foxy\x64\Scripts\cmake.EXE C:\Users\TingWeiOu\ros2_test\src\publisher -DCMAKE_INSTALL_PREFIX=C:\Users\TingWeiOu\ros2_test\install
+[1.641s] Invoking command in 'C:\Users\TingWeiOu\ros2_test\build\publisher': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin CL=/MP C:\opt\ros\foxy\x64\Scripts\cmake.EXE --build C:\Users\TingWeiOu\ros2_test\build\publisher --config Release
+[1.844s] Microsoft (R) Build Engine for .NET Framework 16.11.2+f32259642 版
+[1.844s] Copyright (C) Microsoft Corporation. 著作權所有，並保留一切權利。
+[1.844s] 
+[2.359s]   talker.cpp
+[2.594s] C:\opt\ros\foxy\x64\include\rmw/types.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 [C:\Users\TingWeiOu\ros2_test\build\publisher\talker.vcxproj]
+[2.906s] C:\Users\TingWeiOu\ros2_test\src\publisher\src\talker.cpp(23,23): error C2039: 'msgs': 並非 'std' 的成員 [C:\Users\TingWeiOu\ros2_test\build\publisher\talker.vcxproj]
+[2.906s] C:\opt\ros\foxy\x64\include\rclcpp/parameter.hpp(281): message : 請參閱 'std' 的宣告 [C:\Users\TingWeiOu\ros2_test\build\publisher\talker.vcxproj]
+[2.906s] C:\Users\TingWeiOu\ros2_test\src\publisher\src\talker.cpp(23,29): error C2039: 'msg': 並非 'std' 的成員 [C:\Users\TingWeiOu\ros2_test\build\publisher\talker.vcxproj]
+[2.906s] C:\opt\ros\foxy\x64\include\rclcpp/parameter.hpp(281): message : 請參閱 'std' 的宣告 [C:\Users\TingWeiOu\ros2_test\build\publisher\talker.vcxproj]
+[2.906s] C:\Users\TingWeiOu\ros2_test\src\publisher\src\talker.cpp(23,23): error C3083: 'msgs': '::' 左邊的符號必須是類型 [C:\Users\TingWeiOu\ros2_test\build\publisher\talker.vcxproj]
+[2.906s] C:\Users\TingWeiOu\ros2_test\src\publisher\src\talker.cpp(23,29): error C3083: 'msg': '::' 左邊的符號必須是類型 [C:\Users\TingWeiOu\ros2_test\build\publisher\talker.vcxproj]
+[2.906s] C:\Users\TingWeiOu\ros2_test\src\publisher\src\talker.cpp(23,34): error C2039: 'String': 並非 'std' 的成員 [C:\Users\TingWeiOu\ros2_test\build\publisher\talker.vcxproj]
+[2.906s] C:\opt\ros\foxy\x64\include\rclcpp/parameter.hpp(281): message : 請參閱 'std' 的宣告 [C:\Users\TingWeiOu\ros2_test\build\publisher\talker.vcxproj]
+[2.906s] C:\Users\TingWeiOu\ros2_test\src\publisher\src\talker.cpp(23,1): error C3861: 'String': 找不到識別項 [C:\Users\TingWeiOu\ros2_test\build\publisher\talker.vcxproj]
+[2.906s] C:\Users\TingWeiOu\ros2_test\src\publisher\src\talker.cpp(27,1): error C2668: 'rclcpp::Publisher<std_msgs::msg::String,std::allocator<void>>::publish': 模稜兩可的呼叫多載函式 [C:\Users\TingWeiOu\ros2_test\build\publisher\talker.vcxproj]
+[2.906s] C:\opt\ros\foxy\x64\include\rclcpp/publisher.hpp(232,3): message : 可能是 'void rclcpp::Publisher<std_msgs::msg::String,std::allocator<void>>::publish(const rclcpp::SerializedMessage &)' [C:\Users\TingWeiOu\ros2_test\build\publisher\talker.vcxproj]
+[2.906s] C:\opt\ros\foxy\x64\include\rclcpp/publisher.hpp(226,3): message : 或       'void rclcpp::Publisher<std_msgs::msg::String,std::allocator<void>>::publish(const rcl_serialized_message_t &)' [C:\Users\TingWeiOu\ros2_test\build\publisher\talker.vcxproj]
+[2.906s] C:\opt\ros\foxy\x64\include\rclcpp/publisher.hpp(209,3): message : 或       'void rclcpp::Publisher<std_msgs::msg::String,std::allocator<void>>::publish(const MessageT &)' [C:\Users\TingWeiOu\ros2_test\build\publisher\talker.vcxproj]
+[2.906s]           with
+[2.906s]           [
+[2.906s]               MessageT=std_msgs::msg::String
+[2.906s]           ]
+[2.906s] C:\opt\ros\foxy\x64\include\rclcpp/publisher.hpp(185,3): message : 或       'void rclcpp::Publisher<std_msgs::msg::String,std::allocator<void>>::publish(std::unique_ptr<std_msgs::msg::String_<std::allocator<void>>,std::default_delete<std_msgs::msg::String_<std::allocator<void>>>>)' [C:\Users\TingWeiOu\ros2_test\build\publisher\talker.vcxproj]
+[2.906s] C:\Users\TingWeiOu\ros2_test\src\publisher\src\talker.cpp(27,1): message : 當嘗試符合引數清單 '(unknown-type)' 時 [C:\Users\TingWeiOu\ros2_test\build\publisher\talker.vcxproj]
+[3.062s] Invoked command in 'C:\Users\TingWeiOu\ros2_test\build\publisher' returned '1': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin CL=/MP C:\opt\ros\foxy\x64\Scripts\cmake.EXE --build C:\Users\TingWeiOu\ros2_test\build\publisher --config Release

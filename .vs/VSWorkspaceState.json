@@ -5,6 +5,6 @@
     "\\src\\publisher",
     "\\src\\publisher\\src"
   ],
-  "SelectedNode": "\\src\\publisher\\src\\talker.cpp",
+  "SelectedNode": "\\src\\publisher\\CMakeLists.txt",
   "PreviewInSolutionExplorer": false
 }

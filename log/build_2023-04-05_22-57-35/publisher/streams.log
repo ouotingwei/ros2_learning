@@ -1,0 +1,63 @@
+[0.047s] Invoking command in 'C:\Users\TingWeiOu\ros2_test\build\publisher': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin C:\opt\ros\foxy\x64\Scripts\cmake.EXE C:\Users\TingWeiOu\ros2_test\src\publisher -DCMAKE_INSTALL_PREFIX=C:\Users\TingWeiOu\ros2_test\install
+[0.109s] -- Selecting Windows SDK version 10.0.19041.0 to target Windows 10.0.22621.
+[0.125s] -- Found ament_cmake: 0.9.9 (C:/opt/ros/foxy/x64/share/ament_cmake/cmake)
+[0.156s] -- Using PYTHON_EXECUTABLE: C:/opt/ros/foxy/x64/python.exe
+[0.390s] -- Found rclcpp: 2.4.0 (C:/opt/ros/foxy/x64/share/rclcpp/cmake)
+[0.422s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.437s] -- Found rosidl_adapter: 1.2.1 (C:/opt/ros/foxy/x64/share/rosidl_adapter/cmake)
+[0.890s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.937s] -- Found rmw_implementation_cmake: 1.0.3 (C:/opt/ros/foxy/x64/share/rmw_implementation_cmake/cmake)
+[0.953s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.047s] -- Found std_msgs: 2.0.4 (C:/opt/ros/foxy/x64/share/std_msgs/cmake)
+[1.062s] -- Found ament_lint_auto: 0.9.6 (C:/opt/ros/foxy/x64/share/ament_lint_auto/cmake)
+[1.140s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.156s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.156s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:C:/Users/TingWeiOu/ros2_test/src/publisher/include>
+[1.156s] -- Configured cppcheck exclude dirs and/or files: 
+[1.172s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.172s] -- Configured cpplint exclude dirs and/or files: 
+[1.172s] -- Added test 'lint_cmake' to check CMake code style
+[1.187s] -- Added test 'uncrustify' to check C / C++ code style
+[1.187s] -- Configured uncrustify additional arguments: 
+[1.187s] -- Added test 'xmllint' to check XML markup files
+[1.203s] -- Configuring done
+[1.750s] -- Generating done
+[1.765s] -- Build files have been written to: C:/Users/TingWeiOu/ros2_test/build/publisher
+[1.781s] Invoked command in 'C:\Users\TingWeiOu\ros2_test\build\publisher' returned '0': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin C:\opt\ros\foxy\x64\Scripts\cmake.EXE C:\Users\TingWeiOu\ros2_test\src\publisher -DCMAKE_INSTALL_PREFIX=C:\Users\TingWeiOu\ros2_test\install
+[1.781s] Invoking command in 'C:\Users\TingWeiOu\ros2_test\build\publisher': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin CL=/MP C:\opt\ros\foxy\x64\Scripts\cmake.EXE --build C:\Users\TingWeiOu\ros2_test\build\publisher --config Release
+[1.922s] Microsoft (R) Build Engine for .NET Framework 16.11.2+f32259642 版
+[1.922s] Copyright (C) Microsoft Corporation. 著作權所有，並保留一切權利。
+[1.922s] 
+[2.437s]   talker.cpp
+[2.687s] C:\opt\ros\foxy\x64\include\rmw/types.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 [C:\Users\TingWeiOu\ros2_test\build\publisher\talker.vcxproj]
+[4.515s]   talker.vcxproj -> C:\Users\TingWeiOu\ros2_test\build\publisher\Release\talker.exe
+[4.687s]   Building Custom Rule C:/Users/TingWeiOu/ros2_test/src/publisher/CMakeLists.txt
+[4.828s] Invoked command in 'C:\Users\TingWeiOu\ros2_test\build\publisher' returned '0': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin CL=/MP C:\opt\ros\foxy\x64\Scripts\cmake.EXE --build C:\Users\TingWeiOu\ros2_test\build\publisher --config Release
+[4.890s] Invoking command in 'C:\Users\TingWeiOu\ros2_test\build\publisher': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin C:\opt\ros\foxy\x64\Scripts\cmake.EXE --install C:\Users\TingWeiOu\ros2_test\build\publisher --config Release
+[4.984s] -- Installing: C:/Users/TingWeiOu/ros2_test/install/lib/publisher/talker.exe
+[4.984s] -- Installing: C:/Users/TingWeiOu/ros2_test/install/share/ament_index/resource_index/package_run_dependencies/publisher
+[4.984s] -- Up-to-date: C:/Users/TingWeiOu/ros2_test/install/share/ament_index/resource_index/parent_prefix_path/publisher
+[4.984s] -- Up-to-date: C:/Users/TingWeiOu/ros2_test/install/share/publisher/environment/ament_prefix_path.bat
+[4.984s] -- Installing: C:/Users/TingWeiOu/ros2_test/install/share/publisher/environment/ament_prefix_path.dsv
+[5.000s] -- Up-to-date: C:/Users/TingWeiOu/ros2_test/install/share/publisher/environment/path.bat
+[5.000s] -- Installing: C:/Users/TingWeiOu/ros2_test/install/share/publisher/environment/path.dsv
+[5.000s] -- Up-to-date: C:/Users/TingWeiOu/ros2_test/install/share/publisher/local_setup.bat
+[5.015s] -- Installing: C:/Users/TingWeiOu/ros2_test/install/share/publisher/local_setup.dsv
+[5.015s] -- Installing: C:/Users/TingWeiOu/ros2_test/install/share/publisher/package.dsv
+[5.015s] -- Up-to-date: C:/Users/TingWeiOu/ros2_test/install/share/ament_index/resource_index/packages/publisher
+[5.015s] -- Up-to-date: C:/Users/TingWeiOu/ros2_test/install/share/publisher/cmake/publisherConfig.cmake
+[5.015s] -- Up-to-date: C:/Users/TingWeiOu/ros2_test/install/share/publisher/cmake/publisherConfig-version.cmake
+[5.015s] -- Installing: C:/Users/TingWeiOu/ros2_test/install/share/publisher/package.xml
+[5.031s] Invoked command in 'C:\Users\TingWeiOu\ros2_test\build\publisher' returned '0': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin C:\opt\ros\foxy\x64\Scripts\cmake.EXE --install C:\Users\TingWeiOu\ros2_test\build\publisher --config Release
