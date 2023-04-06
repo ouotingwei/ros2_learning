@@ -1,0 +1,31 @@
+[0.125s] Invoking command in 'C:\Users\TingWeiOu\ros2_test\build\subscriber': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin C:\opt\ros\foxy\x64\Scripts\cmake.EXE C:\Users\TingWeiOu\ros2_test\src\subscriber -DCMAKE_INSTALL_PREFIX=C:\Users\TingWeiOu\ros2_test\install
+[0.235s] -- Selecting Windows SDK version 10.0.19041.0 to target Windows 10.0.22621.
+[1.391s] -- The C compiler identification is MSVC 19.29.30148.0
+[2.188s] -- The CXX compiler identification is MSVC 19.29.30148.0
+[2.266s] -- Detecting C compiler ABI info
+[2.906s] -- Detecting C compiler ABI info - done
+[2.922s] -- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe - skipped
+[2.922s] -- Detecting C compile features
+[2.922s] -- Detecting C compile features - done
+[2.953s] -- Detecting CXX compiler ABI info
+[3.641s] -- Detecting CXX compiler ABI info - done
+[3.656s] -- Check for working CXX compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe - skipped
+[3.656s] -- Detecting CXX compile features
+[3.656s] -- Detecting CXX compile features - done
+[3.672s] -- Found ament_cmake: 0.9.9 (C:/opt/ros/foxy/x64/share/ament_cmake/cmake)
+[3.750s] -- Found PythonInterp: C:/opt/ros/foxy/x64/python.exe (found suitable version "3.8.3", minimum required is "3") 
+[3.750s] -- Using PYTHON_EXECUTABLE: C:/opt/ros/foxy/x64/python.exe
+[4.125s] CMake Error at C:/opt/ros/foxy/x64/share/ament_cmake_target_dependencies/cmake/ament_target_dependencies.cmake:77 (message):
+[4.125s]   ament_target_dependencies() the passed package name 'rclcpp' was not found
+[4.125s]   before
+[4.125s] Call Stack (most recent call first):
+[4.125s]   CMakeLists.txt:25 (ament_target_dependencies)
+[4.125s] 
+[4.125s] 
+[4.125s] -- Configuring incomplete, errors occurred!
+[4.125s] See also "C:/Users/TingWeiOu/ros2_test/build/subscriber/CMakeFiles/CMakeOutput.log".
+[4.125s] Invoked command in 'C:\Users\TingWeiOu\ros2_test\build\subscriber' returned '1': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin C:\opt\ros\foxy\x64\Scripts\cmake.EXE C:\Users\TingWeiOu\ros2_test\src\subscriber -DCMAKE_INSTALL_PREFIX=C:\Users\TingWeiOu\ros2_test\install

@@ -1,0 +1,82 @@
+[0.063s] Invoking command in 'C:\Users\TingWeiOu\ros2_test\build\cpp_pubsub': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin C:\opt\ros\foxy\x64\Scripts\cmake.EXE C:\Users\TingWeiOu\ros2_test\src\cpp_pubsub -DCMAKE_INSTALL_PREFIX=C:\Users\TingWeiOu\ros2_test\install -G Visual Studio 16 2019
+[0.125s] -- Selecting Windows SDK version 10.0.19041.0 to target Windows 10.0.22621.
+[1.266s] -- The C compiler identification is MSVC 19.29.30148.0
+[1.922s] -- The CXX compiler identification is MSVC 19.29.30148.0
+[1.954s] -- Detecting C compiler ABI info
+[2.563s] -- Detecting C compiler ABI info - done
+[2.594s] -- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe - skipped
+[2.594s] -- Detecting C compile features
+[2.594s] -- Detecting C compile features - done
+[2.594s] -- Detecting CXX compiler ABI info
+[3.235s] -- Detecting CXX compiler ABI info - done
+[3.250s] -- Check for working CXX compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe - skipped
+[3.250s] -- Detecting CXX compile features
+[3.250s] -- Detecting CXX compile features - done
+[3.266s] -- Found ament_cmake: 0.9.9 (C:/opt/ros/foxy/x64/share/ament_cmake/cmake)
+[3.344s] -- Found PythonInterp: C:/opt/ros/foxy/x64/python.exe (found suitable version "3.8.3", minimum required is "3") 
+[3.344s] -- Using PYTHON_EXECUTABLE: C:/opt/ros/foxy/x64/python.exe
+[3.782s] -- Found rclcpp: 2.4.0 (C:/opt/ros/foxy/x64/share/rclcpp/cmake)
+[3.954s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.985s] -- Found rosidl_adapter: 1.2.1 (C:/opt/ros/foxy/x64/share/rosidl_adapter/cmake)
+[4.172s] -- Found OpenSSL: C:/opt/ros/foxy/x64/Lib/libcrypto.lib (found version "1.1.1g")  
+[4.266s] -- Found FastRTPS: C:/opt/ros/foxy/x64/include  
+[4.500s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[4.610s] -- Found rmw_implementation_cmake: 1.0.3 (C:/opt/ros/foxy/x64/share/rmw_implementation_cmake/cmake)
+[4.625s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.625s] -- Looking for pthread.h
+[5.094s] -- Looking for pthread.h - not found
+[5.094s] -- Found Threads: TRUE  
+[5.250s] -- Found std_msgs: 2.0.4 (C:/opt/ros/foxy/x64/share/std_msgs/cmake)
+[5.282s] -- Found ament_lint_auto: 0.9.6 (C:/opt/ros/foxy/x64/share/ament_lint_auto/cmake)
+[5.454s] -- Added test 'copyright' to check source files copyright and LICENSE
+[5.485s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[5.485s] -- Configured cppcheck include dirs: 
+[5.485s] -- Configured cppcheck exclude dirs and/or files: 
+[5.516s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[5.516s] -- Configured cpplint exclude dirs and/or files: 
+[5.532s] -- Added test 'lint_cmake' to check CMake code style
+[5.594s] -- Added test 'uncrustify' to check C / C++ code style
+[5.594s] -- Configured uncrustify additional arguments: 
+[5.610s] -- Added test 'xmllint' to check XML markup files
+[5.641s] -- Configuring done
+[5.797s] -- Generating done
+[5.813s] -- Build files have been written to: C:/Users/TingWeiOu/ros2_test/build/cpp_pubsub
+[5.829s] Invoked command in 'C:\Users\TingWeiOu\ros2_test\build\cpp_pubsub' returned '0': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin C:\opt\ros\foxy\x64\Scripts\cmake.EXE C:\Users\TingWeiOu\ros2_test\src\cpp_pubsub -DCMAKE_INSTALL_PREFIX=C:\Users\TingWeiOu\ros2_test\install -G Visual Studio 16 2019
+[5.844s] Invoking command in 'C:\Users\TingWeiOu\ros2_test\build\cpp_pubsub': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin CL=/MP C:\opt\ros\foxy\x64\Scripts\cmake.EXE --build C:\Users\TingWeiOu\ros2_test\build\cpp_pubsub --config Release
+[6.047s] Microsoft (R) Build Engine for .NET Framework 16.11.2+f32259642 版
+[6.047s] Copyright (C) Microsoft Corporation. 著作權所有，並保留一切權利。
+[6.047s] 
+[6.313s]   Checking Build System
+[6.438s]   Building Custom Rule C:/Users/TingWeiOu/ros2_test/src/cpp_pubsub/CMakeLists.txt
+[6.532s]   talker.cpp
+[6.813s] C:\opt\ros\foxy\x64\include\rmw/types.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 [C:\Users\TingWeiOu\ros2_test\build\cpp_pubsub\talker.vcxproj]
+[8.672s]   talker.vcxproj -> C:\Users\TingWeiOu\ros2_test\build\cpp_pubsub\Release\talker.exe
+[8.766s]   Building Custom Rule C:/Users/TingWeiOu/ros2_test/src/cpp_pubsub/CMakeLists.txt
+[8.813s] Invoked command in 'C:\Users\TingWeiOu\ros2_test\build\cpp_pubsub' returned '0': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin CL=/MP C:\opt\ros\foxy\x64\Scripts\cmake.EXE --build C:\Users\TingWeiOu\ros2_test\build\cpp_pubsub --config Release
+[8.891s] Invoking command in 'C:\Users\TingWeiOu\ros2_test\build\cpp_pubsub': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin C:\opt\ros\foxy\x64\Scripts\cmake.EXE --install C:\Users\TingWeiOu\ros2_test\build\cpp_pubsub --config Release
+[8.954s] -- Installing: C:/Users/TingWeiOu/ros2_test/install/share/ament_index/resource_index/package_run_dependencies/cpp_pubsub
+[8.954s] -- Installing: C:/Users/TingWeiOu/ros2_test/install/share/ament_index/resource_index/parent_prefix_path/cpp_pubsub
+[8.954s] -- Installing: C:/Users/TingWeiOu/ros2_test/install/share/cpp_pubsub/environment/ament_prefix_path.bat
+[8.954s] -- Installing: C:/Users/TingWeiOu/ros2_test/install/share/cpp_pubsub/environment/ament_prefix_path.dsv
+[8.969s] -- Installing: C:/Users/TingWeiOu/ros2_test/install/share/cpp_pubsub/environment/path.bat
+[8.969s] -- Installing: C:/Users/TingWeiOu/ros2_test/install/share/cpp_pubsub/environment/path.dsv
+[8.969s] -- Installing: C:/Users/TingWeiOu/ros2_test/install/share/cpp_pubsub/local_setup.bat
+[8.969s] -- Installing: C:/Users/TingWeiOu/ros2_test/install/share/cpp_pubsub/local_setup.dsv
+[8.969s] -- Installing: C:/Users/TingWeiOu/ros2_test/install/share/cpp_pubsub/package.dsv
+[8.969s] -- Installing: C:/Users/TingWeiOu/ros2_test/install/share/ament_index/resource_index/packages/cpp_pubsub
+[8.969s] -- Installing: C:/Users/TingWeiOu/ros2_test/install/share/cpp_pubsub/cmake/cpp_pubsubConfig.cmake
+[8.969s] -- Installing: C:/Users/TingWeiOu/ros2_test/install/share/cpp_pubsub/cmake/cpp_pubsubConfig-version.cmake
+[8.969s] -- Installing: C:/Users/TingWeiOu/ros2_test/install/share/cpp_pubsub/package.xml
+[8.985s] Invoked command in 'C:\Users\TingWeiOu\ros2_test\build\cpp_pubsub' returned '0': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin C:\opt\ros\foxy\x64\Scripts\cmake.EXE --install C:\Users\TingWeiOu\ros2_test\build\cpp_pubsub --config Release

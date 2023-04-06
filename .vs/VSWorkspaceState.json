@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\publisher",
-    "\\src\\publisher\\src"
+    "\\src\\cpp_pubsub",
+    "\\src\\cpp_pubsub\\src"
   ],
-  "SelectedNode": "\\src\\publisher\\CMakeLists.txt",
+  "SelectedNode": "\\src\\cpp_pubsub\\src\\talker.cpp",
   "PreviewInSolutionExplorer": false
 }

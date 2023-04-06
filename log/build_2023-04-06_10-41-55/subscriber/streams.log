@@ -1,0 +1,34 @@
+[0.047s] Invoking command in 'C:\Users\TingWeiOu\ros2_test\build\subscriber': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin C:\opt\ros\foxy\x64\Scripts\cmake.EXE C:\Users\TingWeiOu\ros2_test\src\subscriber -DCMAKE_INSTALL_PREFIX=C:\Users\TingWeiOu\ros2_test\install
+[0.109s] -- Selecting Windows SDK version 10.0.19041.0 to target Windows 10.0.22621.
+[0.109s] -- Found ament_cmake: 0.9.9 (C:/opt/ros/foxy/x64/share/ament_cmake/cmake)
+[0.141s] -- Using PYTHON_EXECUTABLE: C:/opt/ros/foxy/x64/python.exe
+[0.391s] -- Found rclcpp: 2.4.0 (C:/opt/ros/foxy/x64/share/rclcpp/cmake)
+[0.422s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.422s] -- Found rosidl_adapter: 1.2.1 (C:/opt/ros/foxy/x64/share/rosidl_adapter/cmake)
+[0.859s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.922s] -- Found rmw_implementation_cmake: 1.0.3 (C:/opt/ros/foxy/x64/share/rmw_implementation_cmake/cmake)
+[0.922s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.031s] -- Found std_msgs: 2.0.4 (C:/opt/ros/foxy/x64/share/std_msgs/cmake)
+[1.047s] CMake Error at CMakeLists.txt:33 (install):
+[1.047s]   install TARGETS given target "talker" which does not exist.
+[1.047s] 
+[1.047s] 
+[1.047s] -- Found ament_lint_auto: 0.9.6 (C:/opt/ros/foxy/x64/share/ament_lint_auto/cmake)
+[1.141s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.141s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.141s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:C:/Users/TingWeiOu/ros2_test/src/subscriber/include>
+[1.141s] -- Configured cppcheck exclude dirs and/or files: 
+[1.156s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.156s] -- Configured cpplint exclude dirs and/or files: 
+[1.156s] -- Added test 'lint_cmake' to check CMake code style
+[1.172s] -- Added test 'uncrustify' to check C / C++ code style
+[1.172s] -- Configured uncrustify additional arguments: 
+[1.172s] -- Added test 'xmllint' to check XML markup files
+[1.187s] -- Configuring incomplete, errors occurred!
+[1.187s] See also "C:/Users/TingWeiOu/ros2_test/build/subscriber/CMakeFiles/CMakeOutput.log".
+[1.187s] See also "C:/Users/TingWeiOu/ros2_test/build/subscriber/CMakeFiles/CMakeError.log".
+[1.203s] Invoked command in 'C:\Users\TingWeiOu\ros2_test\build\subscriber' returned '1': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin C:\opt\ros\foxy\x64\Scripts\cmake.EXE C:\Users\TingWeiOu\ros2_test\src\subscriber -DCMAKE_INSTALL_PREFIX=C:\Users\TingWeiOu\ros2_test\install

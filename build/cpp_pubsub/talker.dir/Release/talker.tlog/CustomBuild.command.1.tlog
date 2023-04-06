@@ -1,0 +1,10 @@
+^C:\USERS\TINGWEIOU\ROS2_TEST\SRC\CPP_PUBSUB\CMAKELISTS.TXT
+setlocal
+C:\opt\ros\foxy\x64\Lib\site-packages\cmake\data\bin\cmake.exe -SC:/Users/TingWeiOu/ros2_test/src/cpp_pubsub -BC:/Users/TingWeiOu/ros2_test/build/cpp_pubsub --check-stamp-file C:/Users/TingWeiOu/ros2_test/build/cpp_pubsub/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

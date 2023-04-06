@@ -1,0 +1,30 @@
+[0.062s] Invoking command in 'C:\Users\TingWeiOu\ros2_test\build\publisher': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin C:\Users\TingWeiOu\mambaforge\Library\bin\cmake.EXE C:\Users\TingWeiOu\ros2_test\src\publisher -DCMAKE_INSTALL_PREFIX=C:\Users\TingWeiOu\ros2_test\install
+[0.093s] -- Selecting Windows SDK version 10.0.19041.0 to target Windows 10.0.22621.
+[0.093s] -- Found ament_cmake: 0.9.9 (C:/opt/ros/foxy/x64/share/ament_cmake/cmake)
+[0.125s] -- Using PYTHON_EXECUTABLE: C:/opt/ros/foxy/x64/python.exe
+[0.312s] -- Found rclcpp: 2.4.0 (C:/opt/ros/foxy/x64/share/rclcpp/cmake)
+[0.406s] -- Found rmw_implementation_cmake: 1.0.3 (C:/opt/ros/foxy/x64/share/rmw_implementation_cmake/cmake)
+[0.406s] CMake Error at C:/opt/ros/foxy/x64/share/rmw_implementation/cmake/rmw_implementation-extras.cmake:54 (message):
+[0.406s]   The RMW implementation has been specified as 'rmw_fastrtps_cpp' via the
+[0.406s]   default when rmw_implementation was built, but it is not available at this
+[0.406s]   time.
+[0.406s] 
+[0.406s] 
+[0.406s] 
+[0.406s]   Currently available middlewares:
+[0.406s] 
+[0.406s]   ''
+[0.406s] Call Stack (most recent call first):
+[0.406s]   C:/opt/ros/foxy/x64/share/rmw_implementation/cmake/rmw_implementationConfig.cmake:41 (include)
+[0.406s]   C:/opt/ros/foxy/x64/share/rcl/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[0.406s]   C:/opt/ros/foxy/x64/share/rcl/cmake/rclConfig.cmake:41 (include)
+[0.406s]   C:/opt/ros/foxy/x64/share/libstatistics_collector/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[0.406s]   C:/opt/ros/foxy/x64/share/libstatistics_collector/cmake/libstatistics_collectorConfig.cmake:41 (include)
+[0.406s]   C:/opt/ros/foxy/x64/share/rclcpp/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[0.406s]   C:/opt/ros/foxy/x64/share/rclcpp/cmake/rclcppConfig.cmake:41 (include)
+[0.406s]   CMakeLists.txt:20 (find_package)
+[0.406s] 
+[0.406s] 
+[0.406s] -- Configuring incomplete, errors occurred!

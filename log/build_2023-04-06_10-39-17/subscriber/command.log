@@ -1,0 +1,6 @@
+Invoking command in 'C:\Users\TingWeiOu\ros2_test\build\subscriber': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin C:\opt\ros\foxy\x64\Scripts\cmake.EXE C:\Users\TingWeiOu\ros2_test\src\subscriber -DCMAKE_INSTALL_PREFIX=C:\Users\TingWeiOu\ros2_test\install
+Invoked command in 'C:\Users\TingWeiOu\ros2_test\build\subscriber' returned '1': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin C:\opt\ros\foxy\x64\Scripts\cmake.EXE C:\Users\TingWeiOu\ros2_test\src\subscriber -DCMAKE_INSTALL_PREFIX=C:\Users\TingWeiOu\ros2_test\install

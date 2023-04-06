@@ -1,0 +1,42 @@
+[0.109s] Invoking command in 'C:\Users\TingWeiOu\ros2_test\build\publisher': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin C:\Users\TingWeiOu\mambaforge\Library\bin\cmake.EXE C:\Users\TingWeiOu\ros2_test\src\publisher -DCMAKE_INSTALL_PREFIX=C:\Users\TingWeiOu\ros2_test\install
+[0.359s] -- Selecting Windows SDK version 10.0.19041.0 to target Windows 10.0.22621.
+[2.109s] -- The C compiler identification is MSVC 19.29.30148.0
+[3.015s] -- The CXX compiler identification is MSVC 19.29.30148.0
+[3.375s] -- Detecting C compiler ABI info
+[4.218s] -- Detecting C compiler ABI info - done
+[4.250s] -- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe - skipped
+[4.250s] -- Detecting C compile features
+[4.250s] -- Detecting C compile features - done
+[4.281s] -- Detecting CXX compiler ABI info
+[5.000s] -- Detecting CXX compiler ABI info - done
+[5.046s] -- Check for working CXX compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe - skipped
+[5.046s] -- Detecting CXX compile features
+[5.046s] -- Detecting CXX compile features - done
+[5.093s] -- Found ament_cmake: 0.9.9 (C:/opt/ros/foxy/x64/share/ament_cmake/cmake)
+[5.296s] -- Using PYTHON_EXECUTABLE: C:/opt/ros/foxy/x64/python.exe
+[6.406s] -- Found rclcpp: 2.4.0 (C:/opt/ros/foxy/x64/share/rclcpp/cmake)
+[9.218s] -- Found rmw_implementation_cmake: 1.0.3 (C:/opt/ros/foxy/x64/share/rmw_implementation_cmake/cmake)
+[9.390s] CMake Error at C:/opt/ros/foxy/x64/share/rmw_implementation/cmake/rmw_implementation-extras.cmake:54 (message):
+[9.390s]   The RMW implementation has been specified as 'rmw_fastrtps_cpp' via the
+[9.390s]   default when rmw_implementation was built, but it is not available at this
+[9.390s]   time.
+[9.390s] 
+[9.390s] 
+[9.390s] 
+[9.390s]   Currently available middlewares:
+[9.390s] 
+[9.390s]   ''
+[9.390s] Call Stack (most recent call first):
+[9.390s]   C:/opt/ros/foxy/x64/share/rmw_implementation/cmake/rmw_implementationConfig.cmake:41 (include)
+[9.390s]   C:/opt/ros/foxy/x64/share/rcl/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[9.390s]   C:/opt/ros/foxy/x64/share/rcl/cmake/rclConfig.cmake:41 (include)
+[9.390s]   C:/opt/ros/foxy/x64/share/libstatistics_collector/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[9.406s]   C:/opt/ros/foxy/x64/share/libstatistics_collector/cmake/libstatistics_collectorConfig.cmake:41 (include)
+[9.406s]   C:/opt/ros/foxy/x64/share/rclcpp/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[9.406s]   C:/opt/ros/foxy/x64/share/rclcpp/cmake/rclcppConfig.cmake:41 (include)
+[9.406s]   CMakeLists.txt:20 (find_package)
+[9.406s] 
+[9.406s] 
+[9.406s] -- Configuring incomplete, errors occurred!

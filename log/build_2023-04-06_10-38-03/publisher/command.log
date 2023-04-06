@@ -1,0 +1,3 @@
+Invoking command in 'C:\Users\TingWeiOu\ros2_test\build\publisher': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin C:\Users\TingWeiOu\mambaforge\Library\bin\cmake.EXE C:\Users\TingWeiOu\ros2_test\src\publisher -DCMAKE_INSTALL_PREFIX=C:\Users\TingWeiOu\ros2_test\install

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\TingWeiOu\ros2_test\build\subscriber\CMakeFiles\7b7077c0795e2bcb447328fb4664cd15\subscriber_uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\TingWeiOu\ros2_test\src\subscriber\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\TingWeiOu\ros2_test\build\subscriber\CMakeFiles\subscriber_uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6609697C-1545-324F-B01D-B92E89668CBD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

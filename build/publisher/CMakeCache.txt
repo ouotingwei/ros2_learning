@@ -96,6 +96,9 @@ CMAKE_EXE_LINKER_FLAGS_RELEASE:STRING=/INCREMENTAL:NO
 //Flags used by the linker during RELWITHDEBINFO builds.
 CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO:STRING=/debug /INCREMENTAL
 
+//Value Computed by CMake.
+CMAKE_FIND_PACKAGE_REDIRECTS_DIR:STATIC=C:/Users/TingWeiOu/ros2_test/build/publisher/CMakeFiles/pkgRedirects
+
 //Install path prefix, prepended onto install directories.
 CMAKE_INSTALL_PREFIX:PATH=C:/Users/TingWeiOu/ros2_test/install
 
@@ -377,6 +380,9 @@ libyaml_vendor_DIR:PATH=C:/opt/ros/foxy/x64/share/libyaml_vendor/cmake
 publisher_BINARY_DIR:STATIC=C:/Users/TingWeiOu/ros2_test/build/publisher
 
 //Value Computed by CMake
+publisher_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
 publisher_SOURCE_DIR:STATIC=C:/Users/TingWeiOu/ros2_test/src/publisher
 
 //The directory containing a CMake configuration file for rcl.
@@ -480,6 +486,8 @@ yaml_DIR:PATH=C:/opt/ros/foxy/x64/CMake
 # INTERNAL cache entries
 ########################
 
+//ADVANCED property for variable: CMAKE_AR
+CMAKE_AR-ADVANCED:INTERNAL=1
 //This is the directory where this CMakeCache.txt was created
 CMAKE_CACHEFILE_DIR:INTERNAL=c:/Users/TingWeiOu/ros2_test/build/publisher
 //Major version of cmake used to create the current loaded cache
@@ -563,6 +571,8 @@ CMAKE_MT-ADVANCED:INTERNAL=1
 CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=1
 //Platform information initialized
 CMAKE_PLATFORM_INFO_INITIALIZED:INTERNAL=1
+//noop for ranlib
+CMAKE_RANLIB:INTERNAL=:
 //ADVANCED property for variable: CMAKE_RC_COMPILER
 CMAKE_RC_COMPILER-ADVANCED:INTERNAL=1
 CMAKE_RC_COMPILER_WORKS:INTERNAL=1

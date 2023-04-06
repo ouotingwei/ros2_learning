@@ -1,0 +1,57 @@
+[0.078s] Invoking command in 'C:\Users\TingWeiOu\ros2_test\build\publisher': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin C:\opt\ros\foxy\x64\Scripts\cmake.EXE C:\Users\TingWeiOu\ros2_test\src\publisher -DCMAKE_INSTALL_PREFIX=C:\Users\TingWeiOu\ros2_test\install
+[0.250s] -- Selecting Windows SDK version 10.0.19041.0 to target Windows 10.0.22621.
+[0.328s] -- Found ament_cmake: 0.9.9 (C:/opt/ros/foxy/x64/share/ament_cmake/cmake)
+[0.391s] -- Using PYTHON_EXECUTABLE: C:/opt/ros/foxy/x64/python.exe
+[0.641s] -- Found rclcpp: 2.4.0 (C:/opt/ros/foxy/x64/share/rclcpp/cmake)
+[0.719s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.766s] -- Found rosidl_adapter: 1.2.1 (C:/opt/ros/foxy/x64/share/rosidl_adapter/cmake)
+[1.656s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.859s] -- Found rmw_implementation_cmake: 1.0.3 (C:/opt/ros/foxy/x64/share/rmw_implementation_cmake/cmake)
+[1.859s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.437s] -- Found std_msgs: 2.0.4 (C:/opt/ros/foxy/x64/share/std_msgs/cmake)
+[2.562s] -- Found ament_lint_auto: 0.9.6 (C:/opt/ros/foxy/x64/share/ament_lint_auto/cmake)
+[2.875s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.906s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.906s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:C:/Users/TingWeiOu/ros2_test/src/publisher/include>
+[2.906s] -- Configured cppcheck exclude dirs and/or files: 
+[2.922s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.922s] -- Configured cpplint exclude dirs and/or files: 
+[2.937s] -- Added test 'lint_cmake' to check CMake code style
+[2.953s] -- Added test 'uncrustify' to check C / C++ code style
+[2.953s] -- Configured uncrustify additional arguments: 
+[2.953s] -- Added test 'xmllint' to check XML markup files
+[2.984s] -- Configuring done
+[3.328s] -- Generating done
+[3.406s] -- Build files have been written to: C:/Users/TingWeiOu/ros2_test/build/publisher
+[3.422s] Invoked command in 'C:\Users\TingWeiOu\ros2_test\build\publisher' returned '0': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin C:\opt\ros\foxy\x64\Scripts\cmake.EXE C:\Users\TingWeiOu\ros2_test\src\publisher -DCMAKE_INSTALL_PREFIX=C:\Users\TingWeiOu\ros2_test\install
+[3.422s] Invoking command in 'C:\Users\TingWeiOu\ros2_test\build\publisher': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin CL=/MP C:\opt\ros\foxy\x64\Scripts\cmake.EXE --build C:\Users\TingWeiOu\ros2_test\build\publisher --config Release
+[3.594s] Microsoft (R) Build Engine for .NET Framework 16.11.2+f32259642 版
+[3.594s] Copyright (C) Microsoft Corporation. 著作權所有，並保留一切權利。
+[3.594s] 
+[3.953s]   talker.vcxproj -> C:\Users\TingWeiOu\ros2_test\build\publisher\Release\talker.exe
+[4.000s] Invoked command in 'C:\Users\TingWeiOu\ros2_test\build\publisher' returned '0': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin CL=/MP C:\opt\ros\foxy\x64\Scripts\cmake.EXE --build C:\Users\TingWeiOu\ros2_test\build\publisher --config Release
+[4.078s] Invoking command in 'C:\Users\TingWeiOu\ros2_test\build\publisher': APPDATA=%APPDATA%
+C:\opt\ros\noetic\x64\bin=C:\opt\ros\noetic\x64\bin
+C:\xmllint\bin=C:\xmllint\bin C:\opt\ros\foxy\x64\Scripts\cmake.EXE --install C:\Users\TingWeiOu\ros2_test\build\publisher --config Release
+[4.266s] -- Up-to-date: C:/Users/TingWeiOu/ros2_test/install/lib/publisher/talker.exe
+[4.266s] -- Up-to-date: C:/Users/TingWeiOu/ros2_test/install/share/ament_index/resource_index/package_run_dependencies/publisher
+[4.266s] -- Up-to-date: C:/Users/TingWeiOu/ros2_test/install/share/ament_index/resource_index/parent_prefix_path/publisher
+[4.266s] -- Up-to-date: C:/Users/TingWeiOu/ros2_test/install/share/publisher/environment/ament_prefix_path.bat
+[4.266s] -- Installing: C:/Users/TingWeiOu/ros2_test/install/share/publisher/environment/ament_prefix_path.dsv
+[4.266s] -- Up-to-date: C:/Users/TingWeiOu/ros2_test/install/share/publisher/environment/path.bat
+[4.266s] -- Installing: C:/Users/TingWeiOu/ros2_test/install/share/publisher/environment/path.dsv
+[4.266s] -- Up-to-date: C:/Users/TingWeiOu/ros2_test/install/share/publisher/local_setup.bat
+[4.266s] -- Installing: C:/Users/TingWeiOu/ros2_test/install/share/publisher/local_setup.dsv
+[4.266s] -- Installing: C:/Users/TingWeiOu/ros2_test/install/share/publisher/package.dsv
+[4.266s] -- Up-to-date: C:/Users/TingWeiOu/ros2_test/install/share/ament_index/resource_index/packages/publisher
+[4.266s] -- Up-to-date: C:/Users/TingWeiOu/ros2_test/install/share/publisher/cmake/publisherConfig.cmake
+[4.266s] -- Up-to-date: C:/Users/TingWeiOu/ros2_test/install/share/publisher/cmake/publisherConfig-version.cmake
+[4.266s] -- Up-to-date: C:/Users/TingWeiOu/ros2_test/install/share/publisher/package.xml

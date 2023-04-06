@@ -1,0 +1,10 @@
+^C:\USERS\TINGWEIOU\ROS2_TEST\BUILD\SUBSCRIBER\CMAKEFILES\7B7077C0795E2BCB447328FB4664CD15\GENERATE.STAMP.RULE
+setlocal
+C:\opt\ros\foxy\x64\Lib\site-packages\cmake\data\bin\cmake.exe -SC:/Users/TingWeiOu/ros2_test/src/subscriber -BC:/Users/TingWeiOu/ros2_test/build/subscriber --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/TingWeiOu/ros2_test/build/subscriber/subscriber.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

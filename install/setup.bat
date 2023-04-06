@@ -7,6 +7,7 @@
 
 :: source chained prefixes
 call:_colcon_prefix_chain_bat_call_script "C:\opt\ros\foxy\x64\local_setup.bat"
+call:_colcon_prefix_chain_bat_call_script "C:\Users\TingWeiOu\ros2_test\install\\local_setup.bat"
 call:_colcon_prefix_chain_bat_call_script "C:\opt\ros\foxy\x64\\local_setup.bat"
 
 :: source this prefix

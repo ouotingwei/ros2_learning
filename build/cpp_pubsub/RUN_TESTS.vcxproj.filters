@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\TingWeiOu\ros2_test\build\cpp_pubsub\CMakeFiles\d78d12219c7931c9ffadf612d3c3b465\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B5A9A41E-BB4E-3AE5-9B6F-DE00169FB717}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
